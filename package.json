@@ -9,12 +9,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/blockstack/hello-blockstack.git"
+    "url": "git+https://github.com/ERPGenie/blockstack-blog.git"
   },
   "bugs": {
-    "url": "https://github.com/blockstack/hello-blockstack/issues"
+    "url": "https://github.com/ERPGenie/blockstack-blog/issues"
   },
-  "homepage": "https://github.com/blockstack/hello-blockstack#readme",
+  "homepage": "https://github.com/ERPGenie/blockstack-blog#readme",
   "author": "",
   "license": "MIT",
   "devDependencies": {

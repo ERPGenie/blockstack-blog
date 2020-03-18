@@ -1,9 +1,9 @@
 {
-  "name": "Publik",
-  "start_url": "publik.test-blockstack.com",
+  "name": "blockstack-blog",
+  "start_url": "blockstack-blog.netlify.com",
   "description": "A decentralized micro-blogging demo app for Blockstack storage",
   "icons": [{
-    "src": "https://publik.test-blockstack.com/icon-192x192.png",
+    "src": "icon-192x192.png",
     "sizes": "192x192",
     "type": "image/png"
   }]
